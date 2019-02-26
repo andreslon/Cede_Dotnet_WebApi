@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cede_Dotnet_MedicalAppointm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cede_Dotnet_MedicalAppointment_Api", "Cede_Dotnet_MedicalAppointment_Api\Cede_Dotnet_MedicalAppointment_Api.csproj", "{0BBD0CDD-9CA4-4708-9EEF-3D8DD8673C62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalAppointment.Api", "MedicalAppointment.Api\MedicalAppointment.Api.csproj", "{799128F6-2C10-4065-9699-BFBD7BEBC540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalAppointment.Core", "MedicalAppointment.Core\MedicalAppointment.Core.csproj", "{86E33ECA-9AB9-4E32-ADAA-7198F51621EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{0BBD0CDD-9CA4-4708-9EEF-3D8DD8673C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BBD0CDD-9CA4-4708-9EEF-3D8DD8673C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BBD0CDD-9CA4-4708-9EEF-3D8DD8673C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799128F6-2C10-4065-9699-BFBD7BEBC540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799128F6-2C10-4065-9699-BFBD7BEBC540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799128F6-2C10-4065-9699-BFBD7BEBC540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799128F6-2C10-4065-9699-BFBD7BEBC540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E33ECA-9AB9-4E32-ADAA-7198F51621EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E33ECA-9AB9-4E32-ADAA-7198F51621EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E33ECA-9AB9-4E32-ADAA-7198F51621EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E33ECA-9AB9-4E32-ADAA-7198F51621EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
